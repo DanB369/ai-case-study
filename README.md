@@ -13,15 +13,15 @@
 
 * Open AI at its infancy was a non-profit organization that was pleged over 1 Billion. Open AI moved from the non-profit organization to a for-profit organization in 2019 and is in a partnership with Microsoft. The funding recieved to date seems unclear but they have recieved substantial amounts during their non-profit operation years in the neighborhood of 130 Million. 
 
-## Business Activities
+## Business 
 
-* What specific problem is the company or project trying to solve?
+* I believe they are trying to excellerate the improvement and development of most things known to man and help discover unknowns by creating a AGI that is generally smarter than humans. "(About. (n.d.). https://openai.com/about/) By doing this they will improve all of mankind by new technologies and improvements over the current technogies at hand. 
 
-* Who is the company's intended customer? Is there any information about the market size of this set of customers?
+* Open Ai is targeting everyone as a customer, whether you are a college student/ stay at home parent/ or a nationally known company Open AI seems to have a product or service to help you. Chat GPT can be placed on an individuals personal device via an application or web based page. Their Ai model can improve professionnals in a coding course creating a new application while making their work more effeicient. 
 
-* What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
+* Open Ai's advantage is that they are leading the way in the market in AI software. They were one of the first companies in this space and it shows as they have only comtinued to imporve their model.  (08, A., Bowman, J., & The Motley Fool Founded in 1993 in Alexandria. (n.d.). These 3 companies are leading the Artificial Intelligence (AI) race. Nasdaq. https://www.nasdaq.com/articles/these-3-companies-are-leading-the-artificial-intelligence-ai-race#)
 
-* Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing&mdash;you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
+* I never really utilized stackshare and was unsure how to utilize the data given to me. If I am reading it correctly they seem to be integrated into several services including but not limited to: Cloudflare, Amazon Web Services, Amazon CloudFront, and Prism. (Openai.com - OpenAI Tech Stack. StackShare. (n.d.). https://stackshare.io/openai/openai-com )
 
 ## Landscape
 
