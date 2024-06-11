@@ -23,13 +23,11 @@
 
 * I never really utilized stackshare and was unsure how to utilize the data given to me. If I am reading it correctly they seem to be integrated into several services including but not limited to: Cloudflare, Amazon Web Services, Amazon CloudFront, and Prism. (Openai.com - OpenAI Tech Stack. StackShare. (n.d.). https://stackshare.io/openai/openai-com )
 
-## Landscape
+## Specs 
 
-* What field is the company in?
+* Programing,Engineering, and training Artificial Intelligence is what Open Ai is in the business of doing. They have been at it since December 11th 2015 and still going strong with their recent announcement of being added into the IOS/MACOS and IPADOS software on Apples lineup in IOS 18 updates. It seems Siri will act as a layer over the top of Chat GPT giving Siri more function. They are also adding an Emoji creater, Image generator, and other cool features. (Apple WWDC 2024: AI, IOS 18 and more in less than six minutes: WSJ. YouTube. (2024, June 11). https://youtu.be/6KeVsjQmftc?si=luu24hw3LulrZeg2) 
 
-* What have been the major trends and innovations of this field over the last 5&ndash;10 years?
-
-* What are the other major companies in this field?
+* Open Ai has a few competitiors, Optimole whom has 65.91% Market share, ARKit with 3.62% Market Share, and Google AI with 3.12% Market Share. (OpenAI - market share, competitor insights in Artificial Intelligence. 6sense. (n.d.). https://6sense.com/tech/artificial-intelligence/openai-market-share# )
 
 ## Results
 
